@@ -17,7 +17,7 @@ Ajudar pessoas a organizarem suas finanças e alcançarem seus objetivos atravé
 
 ## Projeto Online
 
-(https://lovable.dev/projects/7710e436-be3c-4ef4-beb7-25f5610cd258)
+https://nexafinanceoficial.lovable.app
 
 ## Tecnologias
 
